@@ -1,3 +1,4 @@
+![CapsRule Banner](https://github.com/YourUsername/CapsRule/blob/main/assets/capsrule_banner.png?raw=true)
 # CapsRule – Explainable Deep Learning for Classifying Network Attacks
 
 **CapsRule** is a hybrid model combining Capsule Networks and Rule-Based Learning to classify and explain network attacks, especially DDoS intrusions. It is designed to be transparent, efficient, and scalable on large-scale datasets such as CICDDoS2019.
